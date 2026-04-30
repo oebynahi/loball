@@ -1,0 +1,28 @@
+{
+  "name": "loball",
+  "version": "1.0.0",
+  "description": "Futuristic university marketplace",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oebynahi/loball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oebynahi/loball/issues"
+  },
+  "homepage": "https://github.com/oebynahi/loball#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.4",
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.2.4"
+  }
+}
